@@ -4,20 +4,232 @@ title: Calendar
 uid: 4d19a3e4-dd09-67df-9fa4-de7b6b51a462
 ---
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} *   Constitutive Relation{{< br >}}*   Time-average Poynting Power Vector {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} *   Plane Wave Solutions{{< br >}}*   Phase Velocity and Group Velocity{{< br >}}*   kDB System {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} *   Plane Waves in Uniaxial Media {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} *   Plane Waves in Gyrotropic Media{{< br >}}*   Plane Waves in Bianisotropic Media {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} *   Phase Matching{{< br >}}*   Reflection and Transmission at a Plane Boundary{{< br >}}*   Reflection and Transmission by a Layered Medium (I) {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} *   Reflection and Transmission by a Layered Medium (II){{< br >}}*   Guidance by Conducting Parallel Plates {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} *   Cylindrical Rectangular Waveguide{{< br >}}*   Cylindrical Circular Waveguide{{< br >}}*   Resonance {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} *   No class {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} *   Review Lecture{{< br >}}*   Quiz 1 {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} *   Cerenkov Radiation{{< br >}}*   Dyadic Green's Functions{{< br >}}*   Radiation Field Approximation {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} *   Hertzian Electric Dipole{{< br >}}*   Hertzian Magnetic Dipole{{< br >}}*   Antenna Array {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} *   Equivalence Principle{{< br >}}*   Extinction Theory {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} *   Duality and Complementarity{{< br >}}*   Huygens' Principle{{< br >}}*   Fresnel and Fraunhofer Diffraction {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} *   Reaction and Reciprocity{{< br >}}*   Quantization of Electromagnetic Waves {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} *   Review Lecture{{< br >}}*   Quiz 2 {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Constitutive Relation
+*   Time-average Poynting Power Vector
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Plane Wave Solutions
+*   Phase Velocity and Group Velocity
+*   kDB System
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Plane Waves in Uniaxial Media
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Plane Waves in Gyrotropic Media
+*   Plane Waves in Bianisotropic Media
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Phase Matching
+*   Reflection and Transmission at a Plane Boundary
+*   Reflection and Transmission by a Layered Medium (I)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Reflection and Transmission by a Layered Medium (II)
+*   Guidance by Conducting Parallel Plates
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Cylindrical Rectangular Waveguide
+*   Cylindrical Circular Waveguide
+*   Resonance
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   No class
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review Lecture
+*   Quiz 1
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Cerenkov Radiation
+*   Dyadic Green's Functions
+*   Radiation Field Approximation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Hertzian Electric Dipole
+*   Hertzian Magnetic Dipole
+*   Antenna Array
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Equivalence Principle
+*   Extinction Theory
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Duality and Complementarity
+*   Huygens' Principle
+*   Fresnel and Fraunhofer Diffraction
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Reaction and Reciprocity
+*   Quantization of Electromagnetic Waves
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+*   Review Lecture
+*   Quiz 2
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
